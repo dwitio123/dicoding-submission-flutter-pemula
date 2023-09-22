@@ -1,16 +1,11 @@
-# aneka_makanan_indonesia
+# dicoding-submission-flutter-pemula
+Submission Akhir dari Kelas Belajar Membuat Aplikasi Flutter untuk Pemula
 
-A new Flutter project.
+# App name
+Aneka Makanan Indonesia
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Screenshot
+<img src="https://github.com/dwitio123/dicoding-submission-flutter-pemula/assets/43905112/6ea1b497-689e-45aa-bb3a-842a07737438" width="200">
+<img src="https://github.com/dwitio123/dicoding-submission-flutter-pemula/assets/43905112/9a67b715-68da-4f46-a7b9-5ccc7a78aa35" width="200">
+<img src="https://github.com/dwitio123/dicoding-submission-flutter-pemula/assets/43905112/9d2aca00-2b40-47c9-93f2-3dfc4069dfa1" width="200">
+<img src="https://github.com/dwitio123/dicoding-submission-flutter-pemula/assets/43905112/30d69cc4-18a5-41be-a6e3-4baa3b0e2506" width="200">
